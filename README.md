@@ -10,3 +10,4 @@ My Profile > http://theobservator.net/about
 ## Links:
 
   - CyberChef > https://gchq.github.io/CyberChef/
+  - Convert Hex Stream to Image (Generic One) > https://tomeko.net/online_tools/hex_to_file.php?lang=en
