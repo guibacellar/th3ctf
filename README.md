@@ -17,4 +17,5 @@ My Profile > http://theobservator.net/about
   - PDF to Music > http://www.myriad-online.com/en/products/pdftomusic.htm
 
 ## Write-ups
-TBD
+
+  - Hack The Box - Bank Heist [crypto] > https://www.theobservator.net/write-up-hack-the-box-bank-heist-crypto/
