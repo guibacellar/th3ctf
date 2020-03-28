@@ -7,7 +7,7 @@ My Profile > http://theobservator.net/about
 > My Personal CTF Material, Links, tools, tips, etc
 
 ## Tools: (Python 3.7+)
-  - Multi-Tap Decoder (/tools/multi_tap_decoder.py) > Decode Multi-Tap (Old Cell Phone Text Tapping - Numbers Only Encoded. Ex: "84433 02277773377788828666777 ;)"
+  - Multi-Tap Decoder (/tools/multi_tap_decoder.py) > Decode Multi-Tap (Old Cell Phone Text Tapping - Numbers Only Encoding. Ex: "84433 02277773377788828666777 ;)"
 
 ## Links:
 
