@@ -15,6 +15,7 @@ My Profile > http://theobservator.net/about
   - Convert Hex Stream to Image (Generic One) > https://tomeko.net/online_tools/hex_to_file.php?lang=en
   - Keyed Caesar > http://rumkin.com/tools/cipher/caesar-keyed.php
   - PDF to Music > http://www.myriad-online.com/en/products/pdftomusic.htm
+  - Prime Numbers Encoder/Decoder > https://www.dcode.fr/prime-numbers-cipher
 
 ## Write-ups
 
