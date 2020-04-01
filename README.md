@@ -10,7 +10,7 @@ My Profile > http://theobservator.net/about
   - Multi-Tap Decoder (/tools/multi_tap_decoder.py) > Decode Multi-Tap (Old Cell Phone Text Tapping - Numbers Only Encoding. Ex: "84433 02277773377788828666777 ;)"
 
 ## External Tools
-  - DTMF Checker (Windows x68/x64) > (/external_tools/DTMFChecker.zip)
+  - DTMF Checker (Windows x68/x64) > https://github.com/guibacellar/th3ctf/blob/master/external_tools/DTMFChecker.zip
 
 ## Links:
 
